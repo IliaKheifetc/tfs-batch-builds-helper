@@ -25,11 +25,11 @@ const Index = ({
       <h2>Build definitions</h2>
 
       <FormControl fullWidth>
-        <InputLabel htmlFor="standard-adornment-password">
+        <InputLabel htmlFor="standard-adornment-build-defs">
           Название build definitions
         </InputLabel>
         <Input
-          id="standard-adornment-password"
+          id="standard-adornment-build-defs"
           value={searchText}
           onChange={handleSearchTextChange}
           endAdornment={

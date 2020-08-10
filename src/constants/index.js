@@ -1,4 +1,4 @@
-const BASE_URL = "http://192.168.1.143:8080/tfs/DefaultCollection/";
+const BASE_URL = " https://tfs.astralnalog.ru/tfs/DefaultCollection/";
 
 const PROJECT_ID = "e3337b08-f8bd-424a-9626-53e0af05ffa9";
 const REPOSITORY_ID = "64d662b0-bef2-4366-8577-c091a286f49f";
